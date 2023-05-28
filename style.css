@@ -19,6 +19,7 @@ body {
   background: url('./cl.jpg');
   background-size: cover;
   border-radius: 50%;
+  max-width: 100%;
 }
 .clock::before {
   content: '';
